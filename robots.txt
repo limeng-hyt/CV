@@ -1,3 +1,3 @@
-User-agent: *
+User-agent: bingbot
 Allow: /
-Sitemap: https://limeng-hyt.github.io/limeng.github.io/sitemap.xml
+Sitemap: https://limeng-hyt.github.io/CV/sitemap.xml
